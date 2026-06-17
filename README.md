@@ -21,7 +21,7 @@ Status inicial do herói;
 Sistema de dano e vida;
 Divisão de sementes entre canteiros;
 Sistema de Game Over;
-Verificação de chave de laborátorio;
+
 Controle de velocidade;
 Sistema de levelUp;
 Escudo de Energia;
@@ -35,6 +35,7 @@ _____________
 
 ## Controles
 '''text
+Seta: andar e se mover
 E - Coletar lixo espacial
 Espaço - Pular
 R - usar radar
